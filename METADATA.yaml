@@ -13,4 +13,6 @@ members:
   - login: jpettitt
     name: John Pettitt
 communication:
-  - email: Emailing the following alias: `amphtml-coc@googlegroups.com`.
+  - channel: email
+    name: Email
+    content: "Emailing the following alias: `amphtml-coc@googlegroups.com`."
