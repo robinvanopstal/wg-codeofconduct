@@ -15,4 +15,5 @@ members:
 communication:
   - channel: email
     name: Email
-    content: "Emailing the following alias: `amphtml-coc@googlegroups.com`."
+    content:
+      - item: "Emailing the following alias: `amphtml-coc@googlegroups.com`."
